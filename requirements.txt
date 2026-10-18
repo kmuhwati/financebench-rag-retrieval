@@ -1,0 +1,12 @@
+numpy>=1.26
+pandas>=2.2
+pyarrow>=15
+pymupdf>=1.24
+bm25s>=0.2
+PyStemmer>=2.2
+wordllama>=0.3
+lightgbm>=4.3
+scikit-learn>=1.5
+matplotlib>=3.8
+tabulate>=0.9
+pytest>=8.0

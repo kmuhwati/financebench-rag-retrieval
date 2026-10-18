@@ -1,0 +1,7 @@
+system,question_type,recall@5
+"Naive: dense, shared store",metrics-generated,0.0
+"Naive: dense, shared store",domain-relevant,0.0
+"Naive: dense, shared store",novel-generated,0.22
+Final: routed hybrid + LTR,metrics-generated,0.96
+Final: routed hybrid + LTR,domain-relevant,0.36
+Final: routed hybrid + LTR,novel-generated,0.42
